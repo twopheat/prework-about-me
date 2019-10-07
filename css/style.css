@@ -1,7 +1,8 @@
 body {
-    color: #222222;
-    font-size: 1em;
-    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  color: #ffffff;
+  font-size: 1em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #000;
 }
 
 .content-footer,
