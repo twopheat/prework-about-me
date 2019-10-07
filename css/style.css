@@ -11,8 +11,8 @@ body {
 }
 
 .masthead {
-  padding: 6em 0;
-  background-image: url('../img/code.jpg');
+  padding: 27em 0 2em 0;
+  background-image: url(../img/code.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
