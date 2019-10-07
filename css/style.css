@@ -33,6 +33,13 @@ body {
     color: #ffffff;
 }
 
+.masthead-heading2 {
+  margin-top: -0.1em;
+  font-weight: bold;
+  font-size: 3em;
+  color: #ffffff;
+}
+
 .details {
     max-width: 38em;
     margin-left: auto;
