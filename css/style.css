@@ -3,6 +3,7 @@ body {
   font-size: 1em;
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
   background-color: #000;
+  
 }
 
 .content-footer,
@@ -13,7 +14,7 @@ body {
 
 .masthead {
   padding: 27em 0 2em 0;
-  background-image: url(../img/code.jpg);
+  background-image: url(../img/appmebkg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
