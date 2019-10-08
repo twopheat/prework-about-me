@@ -26675,7 +26675,7 @@ gAQAIAEACABAAgD/2Q==" transform="matrix(0.5908 0 0 0.5908 0 0)">
 	</g>
 	<g>
 		<defs>
-			<text id="SVGID_11_" transform="matrix(1 0 0 1 327.9668 645.5688)" font-family="'CourierNewPS-BoldMT'" font-size="153">CODING</text>
+			<text id="SVGID_11_" transform="matrix(1 0 0 1 327.9668 645.5688)" font-family="'Consolas'" font-size="153">CODING</text>
 		</defs>
 		<clipPath id="SVGID_12_">
 			<use xlink:href="#SVGID_11_"  overflow="visible"/>
@@ -26697,17 +26697,20 @@ gAQAIAEACABAAgD/2Q==" transform="matrix(0.5908 0 0 0.5908 0 0)">
 			<stop  offset="0.8329" style="stop-color:#75CEDE"/>
 			<stop  offset="0.8848" style="stop-color:#70CDDD"/>
 		</linearGradient>
+		<g opacity="0.22">
+			<text transform="matrix(1 0 0 1 327.9668 648.5688)" fill="#878787" font-family="'Consolas'" font-size="153">CODING</text>
+		</g>
+			<rect x="295.887" y="537.176" clip-path="url(#SVGID_12_)" fill="url(#SVGID_13_)" stroke="#FFFFFF" stroke-width="3" width="615.687" height="162.986"/>
 		
-			<rect x="295.887" y="537.176" clip-path="url(#SVGID_12_)" fill="url(#SVGID_13_)" stroke="#FFFFFF" stroke-width="2" width="615.687" height="162.986"/>
 	</g>
 	<g>
 		<g opacity="0.22">
 			
-				<text transform="matrix(0.9576 -0.2881 0.2881 0.9576 605.5229 703.3647)" fill="#878787" font-family="'SegoeScript'" font-size="57.3841">Bootcamp</text>
+				<text transform="matrix(0.9576 -0.2881 0.2881 0.9576 605.5229 703.3647)" fill="#878787" font-family="'segoe script'" font-size="57.3841">Bootcamp</text>
 		</g>
 		<g>
 			
-				<text transform="matrix(0.9576 -0.2881 0.2881 0.9576 605.5229 700.3647)" fill="#DF3F96" font-family="'SegoeScript'" font-size="57.3841">Bootcamp</text>
+				<text transform="matrix(0.9576 -0.2881 0.2881 0.9576 605.5229 700.3647)" fill="#DF3F96" font-family="'segoe script'" font-size="57.3841">Bootcamp</text>
 		</g>
 	</g>
 </g>
