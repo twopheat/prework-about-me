@@ -3,7 +3,7 @@ body {
   font-size: 1em;
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
   background-color: #000;
-  
+
 }
 
 .content-footer,
@@ -13,16 +13,17 @@ body {
 }
 
 .masthead {
-  padding: 27em 0 2em 0;
+  padding: 60% 0 0em 0;
   background-image: url(../img/appmebkg.jpg);
-  background-size: cover;
+  background-size: 100%;
   background-repeat: no-repeat;
+  background-position-x: center;
 }
 
 .masthead-intro {
-    margin-bottom: 0.1em;
-    font-size: 2em;
-    color: #ffffff;
+  margin-bottom: 0.1em;
+  font-size: 2em;
+  color: #63df3a;
 }
 
 .masthead-heading {
